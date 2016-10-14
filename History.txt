@@ -1,0 +1,5 @@
+10/13/2016: Project moved from a loose collection of Google Drive files to GitHub.
+-GameObject.java created: It's the GameObject class, one of the main classes.
+-Documentation guidelines: Documentation guidelines have been created, in an attempt to keep all documentation aligned
+-Google Drive Files moved over
+-This file was created (History.txt)
